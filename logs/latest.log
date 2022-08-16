@@ -1,38 +1,149 @@
-[12:15:35] [ServerMain/INFO]: Building unoptimized datafixer
-[12:15:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:15:38] [ServerMain/INFO]: Loaded 7 recipes
-[12:15:38] [ServerMain/INFO]: Loaded 1179 advancements
-[12:15:39] [Server thread/INFO]: Starting minecraft server version 1.19
-[12:15:39] [Server thread/INFO]: Loading properties
-[12:15:39] [Server thread/INFO]: Default game type: SURVIVAL
-[12:15:39] [Server thread/INFO]: Generating keypair
-[12:15:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:15:39] [Server thread/INFO]: Using default channel type
-[12:15:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:15:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:15:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:15:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:15:39] [Server thread/INFO]: Preparing level "world"
-[12:15:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:15:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[12:15:43] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[12:15:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:15:45] [Worker-Main-6/INFO]: Preparing spawn area: 22%
-[12:15:45] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[12:15:45] [Server thread/INFO]: Time elapsed: 5711 ms
-[12:15:45] [Server thread/INFO]: Done (5.965s)! For help, type "help"
-[12:15:50] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:51383] logged in with entity id 91 at (250.5, 131.0, -82.5)
-[12:15:50] [Server thread/INFO]: UltroA13 joined the game
-[12:15:59] [Server thread/INFO]: UltroA13 lost connection: Disconnected
-[12:15:59] [Server thread/INFO]: UltroA13 left the game
-[12:18:28] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:60181] logged in with entity id 235 at (250.5, 131.0, -82.5)
-[12:18:28] [Server thread/INFO]: UltroA13 joined the game
-[12:26:23] [Server thread/INFO]: UltroA13 lost connection: Disconnected
-[12:26:23] [Server thread/INFO]: UltroA13 left the game
+[20:08:15] [ServerMain/INFO]: Building unoptimized datafixer
+[20:08:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:08:18] [ServerMain/INFO]: Loaded 7 recipes
+[20:08:19] [ServerMain/INFO]: Loaded 1179 advancements
+[20:08:20] [Server thread/INFO]: Starting minecraft server version 1.19
+[20:08:20] [Server thread/INFO]: Loading properties
+[20:08:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:08:20] [Server thread/INFO]: Generating keypair
+[20:08:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:08:20] [Server thread/INFO]: Using default channel type
+[20:08:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:08:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:08:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:08:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:08:20] [Server thread/INFO]: Preparing level "world"
+[20:08:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:08:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:26] [Worker-Main-4/INFO]: Preparing spawn area: 47%
+[20:08:26] [Server thread/INFO]: Time elapsed: 5959 ms
+[20:08:26] [Server thread/INFO]: Done (6.180s)! For help, type "help"
+[20:08:27] [Server thread/INFO]: 6JLuCTATEJLbHblU[/31.29.132.88:51147] logged in with entity id 172 at (183.85386327241665, 79.53584062504456, -22.795466564617815)
+[20:08:27] [Server thread/INFO]: 6JLuCTATEJLbHblU joined the game
+[20:08:30] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:50340] logged in with entity id 192 at (244.8982251423154, 127.0, -87.41146176786927)
+[20:08:30] [Server thread/INFO]: UltroA13 joined the game
+[20:08:31] [Server thread/INFO]: 6JLuCTATEJLbHblU lost connection: You logged in from another location
+[20:08:31] [Server thread/INFO]: 6JLuCTATEJLbHblU left the game
+[20:08:32] [Server thread/INFO]: 6JLuCTATEJLbHblU[/31.29.132.88:59972] logged in with entity id 205 at (183.88036002491552, 79.5, -23.118742942516494)
+[20:08:32] [Server thread/INFO]: 6JLuCTATEJLbHblU joined the game
+[20:41:42] [Server thread/INFO]: <UltroA13> zzz
+[20:51:58] [Server thread/INFO]: 6JLuCTATEJLbHblU lost connection: Disconnected
+[20:51:58] [Server thread/INFO]: 6JLuCTATEJLbHblU left the game
+[20:57:06] [Server thread/INFO]: 6JLuCTATEJLbHblU[/31.29.132.88:65124] logged in with entity id 30135 at (274.0145871331699, 127.0, -80.7751833775987)
+[20:57:06] [Server thread/INFO]: 6JLuCTATEJLbHblU joined the game
+[21:00:52] [Server thread/INFO]: Villager bss['Librarian'/36, l='ServerLevel[world]', x=233.03, y=63.00, z=38.56] died, message: 'Librarian was slain by Zombie'
+[21:06:47] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[21:06:47] [Server thread/INFO]: UltroA13 left the game
+[21:10:37] [Server thread/WARN]: 6JLuCTATEJLbHblU moved wrongly!
+[21:11:02] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:53581] logged in with entity id 32130 at (244.58576646171232, 130.0, -86.78746374972972)
+[21:11:02] [Server thread/INFO]: UltroA13 joined the game
+[21:13:04] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[21:13:04] [Server thread/INFO]: UltroA13 left the game
+[21:13:29] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:54733] logged in with entity id 32465 at (247.85172912090036, 127.0, -83.12088327304652)
+[21:13:29] [Server thread/INFO]: UltroA13 joined the game
+[21:18:45] [Server thread/INFO]: <UltroA13> zzz.
+[22:00:00] [Server thread/INFO]: UltroA13 experienced kinetic energy whilst trying to escape Zombie
+[22:01:22] [Server thread/INFO]: UltroA13 fell from a high place
+[22:03:23] [Server thread/INFO]: UltroA13 hit the ground too hard
+[22:06:14] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[22:06:14] [Server thread/INFO]: UltroA13 left the game
+[22:07:08] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:54234] logged in with entity id 39577 at (261.30000001192093, 12.0, 155.69999998807907)
+[22:07:08] [Server thread/INFO]: UltroA13 joined the game
+[22:08:27] [Server thread/INFO]: UltroA13 was shot by Skeleton
+[22:08:30] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[22:08:30] [Server thread/INFO]: UltroA13 left the game
+[22:18:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:18:12] [Server thread/INFO]: ffff<--[HERE]
+[22:33:21] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:52262] logged in with entity id 43142 at (286.43505689798747, 15.0, 129.41432487740911)
+[22:33:54] [Server thread/INFO]: UltroA13 joined the game
+[22:33:54] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[22:33:54] [Server thread/INFO]: UltroA13 left the game
+[22:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32988ms or 659 ticks behind
+[22:33:54] [Server thread/INFO]: 6JLuCTATEJLbHblU lost connection: Disconnected
+[22:33:54] [Server thread/INFO]: 6JLuCTATEJLbHblU left the game
+[22:33:54] [Server thread/WARN]: handleDisconnection() called twice
+[22:33:54] [Netty Server IO #2/ERROR]: Thread dumps: 
+Netty Server IO #2: 
+	at java.base/java.lang.Thread.getStackTrace(Thread.java:1610)
+	at amg.a(SourceFile:92)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at amg.a(SourceFile:82)
+	at czv.c(SourceFile:49)
+	at czj.f(SourceFile:13)
+	at agj.<init>(SourceFile:72)
+	at agi.a(SourceFile:42)
+	at yu.a(SourceFile:43)
+	at yu.a(SourceFile:8)
+	at qv.a(SourceFile:171)
+	at qv.a(SourceFile:156)
+	at qv.channelRead0(SourceFile:54)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:314)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:279)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at age.channelRead(SourceFile:94)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[22:33:54] [Server thread/INFO]: UltroA13[/[0:0:0:0:0:0:0:1]:64336] logged in with entity id 43143 at (286.43505689798747, 15.0, 129.41432487740911)
+[22:33:54] [Server thread/INFO]: UltroA13 joined the game
+[22:33:59] [Server thread/INFO]: 6JLuCTATEJLbHblU[/31.29.132.88:55374] logged in with entity id 43334 at (247.26835464652078, 127.46636804164123, -80.98647231812788)
+[22:33:59] [Server thread/INFO]: 6JLuCTATEJLbHblU joined the game
+[22:35:20] [Server thread/INFO]: UltroA13 fell from a high place
+[22:35:49] [Server thread/INFO]: UltroA13 fell from a high place
+[22:36:04] [Server thread/INFO]: UltroA13 fell from a high place
+[22:36:26] [Server thread/INFO]: UltroA13 fell from a high place
+[22:36:35] [Server thread/INFO]: UltroA13 fell from a high place
+[22:36:43] [Server thread/INFO]: UltroA13 fell from a high place
+[22:37:00] [Server thread/INFO]: UltroA13 fell from a high place
+[22:38:07] [Server thread/INFO]: UltroA13 fell from a high place
+[22:39:27] [Server thread/INFO]: Villager bss['Fletcher'/35, l='ServerLevel[world]', x=228.50, y=63.00, z=41.30] died, message: 'Fletcher was slain by Zombie'
+[22:42:14] [Server thread/INFO]: UltroA13 lost connection: Disconnected
+[22:42:14] [Server thread/INFO]: UltroA13 left the game
+[22:42:17] [Server thread/INFO]: 6JLuCTATEJLbHblU lost connection: Disconnected
+[22:42:17] [Server thread/INFO]: 6JLuCTATEJLbHblU left the game
