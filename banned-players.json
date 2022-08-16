@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "56370e02-efb6-3483-8f24-ca008979cabe",
+    "name": "6jluctatejlbhblu1",
+    "created": "2022-08-15 21:02:56 +0300",
+    "source": "UltroA13",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "69dd4b43-5d27-3fc9-b95b-64de21c4ea31",
+    "name": "Xxx",
+    "created": "2022-08-15 17:01:45 +0300",
+    "source": "UltroA13",
+    "expires": "forever",
+    "reason": "Оскорбление администрации + воровсво вещей"
+  },
+  {
+    "uuid": "fc1bb3dd-108e-4e49-b00e-b1201fbbaace",
+    "name": "Lava",
+    "created": "2022-08-15 20:55:10 +0300",
+    "source": "UltroA13",
+    "expires": "forever",
+    "reason": "Бесит"
+  }
+]
